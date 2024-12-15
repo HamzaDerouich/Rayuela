@@ -1,3 +1,5 @@
+# Student Management System 🚀
+
 
 Welcome to the **Student Management System** repository! This project provides a platform for managing students' grades and attendance records, designed for teachers and administrators to efficiently track academic performance.
 
